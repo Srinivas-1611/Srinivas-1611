@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Srinivas-1611
 - 👀 I’m interested in cybersecurity.
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Srinivas-1611/Srinivas-1611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
