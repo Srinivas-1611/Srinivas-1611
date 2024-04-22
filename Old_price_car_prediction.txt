@@ -3,3 +3,6 @@ Three regression models were employed: Linear Regression, Random Forest Regressi
 The dataset underwent thorough preprocessing, including feature engineering and scaling. 
 Each model was trained, evaluated using R-squared score, and compared through scatter plots visualizing actual versus predicted prices. 
 This approach provides insight into the effectiveness of different regression techniques in forecasting car prices.
+
+
+## JUST run the code for predicting old car prices...
