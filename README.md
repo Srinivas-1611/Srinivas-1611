@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Srinivas-1611
 - 👀 I’m interested in cybersecurity.
-- 🌱 I’m currently learning Artificial Intelligence and Machine Learning.
 
 
 <!---
